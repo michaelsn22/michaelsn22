@@ -1,7 +1,6 @@
 https://michaelsn22.github.io/ View my portfolio here!
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=michaelsn22&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsn22&show_icons=true&theme=radical&theme=compact&count_private=true)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=michaelsn22&theme=highcontrast&show_icons=true&count_private=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsn22&show_icons=true&theme=radical&theme=compact&count_private=true&layout=compact" />
 <!--
 **michaelsn22/michaelsn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
