@@ -1,7 +1,5 @@
 https://michaelsn22.github.io/ View my portfolio here!
 
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsn22&show_icons=true&theme=github_dark&count_private=true&layout=compact" />
-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
